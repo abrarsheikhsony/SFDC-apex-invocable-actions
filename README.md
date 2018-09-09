@@ -24,7 +24,20 @@
 
 <li>Provide a Snap-ins chat button for your customers on Lightning (Force.com) Site "or" a Salesforce Community</li>
 
+<li>Create Einstein Bot</li>
+
 </ol>
+
+## Key Considerations
+<ol type="1">
+<li>Update Einstein Bots Configuration under Live Agent > Chat Buttons & Invitations (in Salesforce Classic)</li>
+<li>Update Snap-in Chat Deployment Settings (in Lightning Experience)</li>
+<li>New Permission Set = sfdc.chatbot.service.permset (after enabling Einstein Bot and Live Agent channel)</li>
+<li>Note: This permission set controls what Objects and Apex classes Bots can access in your Salesforce org</li>
+</ol>
+
+
+
 
 
 
