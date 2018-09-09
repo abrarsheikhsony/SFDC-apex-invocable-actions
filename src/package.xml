@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
@@ -5,16 +6,12 @@
         <name>ApexClass</name>
     </types>
     <types>
-        <members>*</members>
-        <name>ApexComponent</name>
+        <members>FutureSkills</members>
+        <name>Bot</name>
     </types>
     <types>
-        <members>*</members>
-        <name>ApexPage</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>ApexTrigger</name>
+        <members>FutureSkills.v1</members>
+        <name>BotVersion</name>
     </types>
     <types>
         <members>CourseEnrolled__c</members>
@@ -43,8 +40,12 @@
         <name>LiveChatSensitiveDataRule</name>
     </types>
     <types>
+        <members>Change_the_Course_Location</members>
+        <name>MlDomain</name>
+    </types>
+    <types>
         <members>*</members>
         <name>PermissionSet</name>
     </types>
-    <version>41.0</version>
+    <version>43.0</version>
 </Package>

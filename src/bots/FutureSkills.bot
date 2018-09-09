@@ -13,6 +13,22 @@
                 <type>VariableOperation</type>
             </botSteps>
             <botSteps>
+                <type>VariableOperation</type>
+            </botSteps>
+            <botSteps>
+                <botMessages>
+                    <message>Thanks! We have found your Contact record.
+
+Full Name = {!contactRecord.Name}
+
+Email = {!contactRecord.Email}</message>
+                </botMessages>
+                <type>Message</type>
+            </botSteps>
+            <botSteps>
+                <type>VariableOperation</type>
+            </botSteps>
+            <botSteps>
                 <botMessages>
                     <message>Great! You have selected {!SelectInstitute.Name}.</message>
                 </botMessages>
@@ -49,6 +65,22 @@
             </botSteps>
             <botSteps>
                 <botMessages>
+                    <message>Thanks! We have found your Contact record.
+
+Full Name = {!contactRecord.Name}
+
+Email = {!contactRecord.Email}</message>
+                </botMessages>
+                <type>Message</type>
+            </botSteps>
+            <botSteps>
+                <type>VariableOperation</type>
+            </botSteps>
+            <botSteps>
+                <type>VariableOperation</type>
+            </botSteps>
+            <botSteps>
+                <botMessages>
                     <message>Current Location of your enrolled course is {!courseEnrolToChangeLocation.Location__c}.</message>
                 </botMessages>
                 <type>Message</type>
@@ -73,12 +105,18 @@
             </botSteps>
             <botSteps>
                 <botMessages>
+                    <message>We also have sent you confirmation email.</message>
+                </botMessages>
+                <type>Message</type>
+            </botSteps>
+            <botSteps>
+                <botMessages>
                     <message>Thank you so much for choosing Future Skills! Good luck with your course! Have a great day :)</message>
                 </botMessages>
                 <type>Message</type>
             </botSteps>
             <botSteps>
-                <type>Wait</type>
+                <type>Navigation</type>
             </botSteps>
             <developerName>Change_the_Course_Location</developerName>
             <label>Change the Course Location</label>
@@ -147,14 +185,6 @@
             </botSteps>
             <developerName>Confused</developerName>
             <label>Confused</label>
-            <showInFooterMenu>false</showInFooterMenu>
-        </botDialogs>
-        <botDialogs>
-            <botSteps>
-                <type>Wait</type>
-            </botSteps>
-            <developerName>FAQs</developerName>
-            <label>FAQ&apos;s</label>
             <showInFooterMenu>false</showInFooterMenu>
         </botDialogs>
         <botDialogs>
@@ -235,12 +265,18 @@ Location = {!courseEnrolledRecord.Location__c}</message>
             </botSteps>
             <botSteps>
                 <botMessages>
+                    <message>We also have sent you confirmation email.</message>
+                </botMessages>
+                <type>Message</type>
+            </botSteps>
+            <botSteps>
+                <botMessages>
                     <message>Thank you so much for choosing Future Skills! Good luck with your course! Have a great day :)</message>
                 </botMessages>
                 <type>Message</type>
             </botSteps>
             <botSteps>
-                <type>Wait</type>
+                <type>Navigation</type>
             </botSteps>
             <developerName>Create_Enrolled_Course</developerName>
             <label>Create Enrolled Course</label>

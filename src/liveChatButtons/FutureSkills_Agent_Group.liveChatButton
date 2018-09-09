@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LiveChatButton xmlns="http://soap.sforce.com/2006/04/metadata">
-    <autoGreeting>Hello! This is EinsteinBot Agent!</autoGreeting>
     <chasitorIdleTimeout>120</chasitorIdleTimeout>
     <chasitorIdleTimeoutWarning>60</chasitorIdleTimeoutWarning>
-    <customAgentName>EinsteinBot Agent</customAgentName>
     <deployments/>
     <enableQueue>true</enableQueue>
     <isActive>true</isActive>
