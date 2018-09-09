@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LiveChatButton xmlns="http://soap.sforce.com/2006/04/metadata">
+    <autoGreeting>Hello! This is EinsteinBot Agent!</autoGreeting>
+    <chasitorIdleTimeout>120</chasitorIdleTimeout>
+    <chasitorIdleTimeoutWarning>60</chasitorIdleTimeoutWarning>
+    <customAgentName>EinsteinBot Agent</customAgentName>
+    <deployments/>
+    <enableQueue>true</enableQueue>
+    <isActive>true</isActive>
+    <label>FutureSkills Agent Group</label>
+    <optionsCustomRoutingIsEnabled>false</optionsCustomRoutingIsEnabled>
+    <optionsHasChasitorIdleTimeout>true</optionsHasChasitorIdleTimeout>
+    <optionsHasInviteAfterAccept>false</optionsHasInviteAfterAccept>
+    <optionsHasInviteAfterReject>false</optionsHasInviteAfterReject>
+    <optionsHasRerouteDeclinedRequest>false</optionsHasRerouteDeclinedRequest>
+    <optionsIsAutoAccept>false</optionsIsAutoAccept>
+    <optionsIsInviteAutoRemove>false</optionsIsInviteAutoRemove>
+    <overallQueueLength>1</overallQueueLength>
+    <routingType>MostAvailable</routingType>
+    <site>Future_Skills</site>
+    <skills>
+        <skill>LiveAgentSkill</skill>
+    </skills>
+    <type>Standard</type>
+    <windowLanguage>en_US</windowLanguage>
+</LiveChatButton>

@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bot xmlns="http://soap.sforce.com/2006/04/metadata">
+    <botVersions>
+        <fullName>v1</fullName>
+        <botDialogs>
+            <botSteps>
+                <botMessages>
+                    <message>Great! So you want to enrol in a new course :)</message>
+                </botMessages>
+                <type>Message</type>
+            </botSteps>
+            <botSteps>
+                <type>VariableOperation</type>
+            </botSteps>
+            <botSteps>
+                <botMessages>
+                    <message>Great! You have selected {!SelectInstitute.Name}.</message>
+                </botMessages>
+                <type>Message</type>
+            </botSteps>
+            <botSteps>
+                <type>Navigation</type>
+            </botSteps>
+            <developerName>Enroll_in_a_Course</developerName>
+            <label>Enrol in a Course</label>
+            <mlIntent>Enroll_in_a_Course</mlIntent>
+            <showInFooterMenu>false</showInFooterMenu>
+        </botDialogs>
+        <botDialogs>
+            <botSteps>
+                <type>Wait</type>
+            </botSteps>
+            <developerName>Change_the_Course</developerName>
+            <label>Change the Course</label>
+            <showInFooterMenu>false</showInFooterMenu>
+        </botDialogs>
+        <botDialogs>
+            <botSteps>
+                <botMessages>
+                    <message>No worries :)</message>
+                </botMessages>
+                <type>Message</type>
+            </botSteps>
+            <botSteps>
+                <type>VariableOperation</type>
+            </botSteps>
+            <botSteps>
+                <type>VariableOperation</type>
+            </botSteps>
+            <botSteps>
+                <botMessages>
+                    <message>Current Location of your enrolled course is {!courseEnrolToChangeLocation.Location__c}.</message>
+                </botMessages>
+                <type>Message</type>
+            </botSteps>
+            <botSteps>
+                <type>VariableOperation</type>
+            </botSteps>
+            <botSteps>
+                <botMessages>
+                    <message>Thank you! Please wait. Updating the location...</message>
+                </botMessages>
+                <type>Message</type>
+            </botSteps>
+            <botSteps>
+                <type>VariableOperation</type>
+            </botSteps>
+            <botSteps>
+                <botMessages>
+                    <message>Great all done! The new Location {!courseEnrolledRecord.Location__c} has been updated for the course {!courseEnrolledRecord.Course__r.Name}.</message>
+                </botMessages>
+                <type>Message</type>
+            </botSteps>
+            <botSteps>
+                <botMessages>
+                    <message>Thank you so much for choosing Future Skills! Good luck with your course! Have a great day :)</message>
+                </botMessages>
+                <type>Message</type>
+            </botSteps>
+            <botSteps>
+                <type>Wait</type>
+            </botSteps>
+            <developerName>Change_the_Course_Location</developerName>
+            <label>Change the Course Location</label>
+            <mlIntent>Change_the_Course_Location</mlIntent>
+            <showInFooterMenu>false</showInFooterMenu>
+        </botDialogs>
+        <botDialogs>
+            <botSteps>
+                <botMessages>
+                    <message>Hello! Welcome to Future Skills. This is your Future Skills ChatBot to help you here :)</message>
+                </botMessages>
+                <type>Message</type>
+            </botSteps>
+            <botSteps>
+                <botMessages>
+                    <message>How may I help you today?</message>
+                </botMessages>
+                <type>Message</type>
+            </botSteps>
+            <botSteps>
+                <type>Wait</type>
+            </botSteps>
+            <developerName>Welcome</developerName>
+            <label>Welcome</label>
+            <showInFooterMenu>false</showInFooterMenu>
+        </botDialogs>
+        <botDialogs>
+            <botSteps>
+                <type>Navigation</type>
+            </botSteps>
+            <developerName>Main_Menu</developerName>
+            <label>Main Menu</label>
+            <showInFooterMenu>false</showInFooterMenu>
+        </botDialogs>
+        <botDialogs>
+            <botSteps>
+                <type>Navigation</type>
+            </botSteps>
+            <developerName>Transfer_To_Agent</developerName>
+            <label>Transfer To Agent</label>
+            <showInFooterMenu>false</showInFooterMenu>
+        </botDialogs>
+        <botDialogs>
+            <botSteps>
+                <botMessages>
+                    <message>Goodbye! Click the &quot;End Chat&quot; button to end this chat</message>
+                </botMessages>
+                <type>Message</type>
+            </botSteps>
+            <botSteps>
+                <type>Wait</type>
+            </botSteps>
+            <developerName>End_Chat</developerName>
+            <label>End Chat</label>
+            <showInFooterMenu>false</showInFooterMenu>
+        </botDialogs>
+        <botDialogs>
+            <botSteps>
+                <botMessages>
+                    <message>Sorry, I didn&apos;t understand that.</message>
+                </botMessages>
+                <type>Message</type>
+            </botSteps>
+            <botSteps>
+                <type>Wait</type>
+            </botSteps>
+            <developerName>Confused</developerName>
+            <label>Confused</label>
+            <showInFooterMenu>false</showInFooterMenu>
+        </botDialogs>
+        <botDialogs>
+            <botSteps>
+                <type>Wait</type>
+            </botSteps>
+            <developerName>FAQs</developerName>
+            <label>FAQ&apos;s</label>
+            <showInFooterMenu>false</showInFooterMenu>
+        </botDialogs>
+        <botDialogs>
+            <botSteps>
+                <type>VariableOperation</type>
+            </botSteps>
+            <botSteps>
+                <botMessages>
+                    <message>Great! You have selected {!SelectCourse.Name}.</message>
+                </botMessages>
+                <type>Message</type>
+            </botSteps>
+            <botSteps>
+                <type>VariableOperation</type>
+            </botSteps>
+            <botSteps>
+                <botMessages>
+                    <message>Great! You have selected {!selectedLocation}.</message>
+                </botMessages>
+                <type>Message</type>
+            </botSteps>
+            <botSteps>
+                <type>Navigation</type>
+            </botSteps>
+            <developerName>SelectCourse</developerName>
+            <label>Select Course</label>
+            <showInFooterMenu>false</showInFooterMenu>
+        </botDialogs>
+        <botDialogs>
+            <botSteps>
+                <botMessages>
+                    <message>Great! Enrolling you in the selected course.......</message>
+                </botMessages>
+                <type>Message</type>
+            </botSteps>
+            <botSteps>
+                <type>VariableOperation</type>
+            </botSteps>
+            <botSteps>
+                <botMessages>
+                    <message>Great all done! You have been enrolled successfully :) Please see enrolled course details:</message>
+                </botMessages>
+                <type>Message</type>
+            </botSteps>
+            <botSteps>
+                <botMessages>
+                    <message>Enrol ID = {!courseEnrolledRecord.Name}</message>
+                </botMessages>
+                <type>Message</type>
+            </botSteps>
+            <botSteps>
+                <botMessages>
+                    <message>Institute = {!courseEnrolledRecord.Course__r.Institution__r.Name}
+
+Course = {!courseEnrolledRecord.Course__r.Name}
+
+Description = {!courseEnrolledRecord.Course__r.Description__c}</message>
+                </botMessages>
+                <type>Message</type>
+            </botSteps>
+            <botSteps>
+                <botMessages>
+                    <message>Duration = {!courseEnrolledRecord.Course__r.Duration__c}
+
+Frequency = {!courseEnrolledRecord.Course__r.Frequency__c}</message>
+                </botMessages>
+                <type>Message</type>
+            </botSteps>
+            <botSteps>
+                <botMessages>
+                    <message>Start Date = {!courseEnrolledRecord.StartDate__c}
+
+End Date = {!courseEnrolledRecord.EndDate__c}
+
+Location = {!courseEnrolledRecord.Location__c}</message>
+                </botMessages>
+                <type>Message</type>
+            </botSteps>
+            <botSteps>
+                <botMessages>
+                    <message>Thank you so much for choosing Future Skills! Good luck with your course! Have a great day :)</message>
+                </botMessages>
+                <type>Message</type>
+            </botSteps>
+            <botSteps>
+                <type>Wait</type>
+            </botSteps>
+            <developerName>Create_Enrolled_Course</developerName>
+            <label>Create Enrolled Course</label>
+            <showInFooterMenu>false</showInFooterMenu>
+        </botDialogs>
+        <entryDialog>Welcome</entryDialog>
+        <mainMenuDialog>Main_Menu</mainMenuDialog>
+    </botVersions>
+</Bot>

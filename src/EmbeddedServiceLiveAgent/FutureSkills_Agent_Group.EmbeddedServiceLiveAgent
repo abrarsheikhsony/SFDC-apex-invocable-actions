@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmbeddedServiceLiveAgent xmlns="http://soap.sforce.com/2006/04/metadata">
+    <embeddedServiceConfig>04IB00000004FHl</embeddedServiceConfig>
+    <embeddedServiceQuickActions>
+        <embeddedServiceLiveAgent>FutureSkills_Agent_Group</embeddedServiceLiveAgent>
+        <order>1</order>
+        <quickActionDefinition>Snapins_Contact_PrechatQuickAction_08hB000000001Mn</quickActionDefinition>
+    </embeddedServiceQuickActions>
+    <embeddedServiceQuickActions>
+        <embeddedServiceLiveAgent>FutureSkills_Agent_Group</embeddedServiceLiveAgent>
+        <order>1</order>
+        <quickActionDefinition>Snapins_Case_OfflineCaseQuickAction_08hB000000001Mn</quickActionDefinition>
+    </embeddedServiceQuickActions>
+    <embeddedServiceQuickActions>
+        <embeddedServiceLiveAgent>FutureSkills_Agent_Group</embeddedServiceLiveAgent>
+        <order>2</order>
+        <quickActionDefinition>Snapins_Case_PrechatQuickAction_08hB000000001Mn</quickActionDefinition>
+    </embeddedServiceQuickActions>
+    <liveChatButton>573B00000001Eu1</liveChatButton>
+    <liveChatDeployment>572B000000014DS</liveChatDeployment>
+    <masterLabel>FutureSkills Agent Group</masterLabel>
+    <prechatEnabled>false</prechatEnabled>
+    <scenario>Service</scenario>
+</EmbeddedServiceLiveAgent>
