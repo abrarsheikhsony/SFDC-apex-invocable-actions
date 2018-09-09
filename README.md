@@ -32,7 +32,16 @@
 
 <li><a href="https://trailhead.salesforce.com/modules/service_bots_basics" target="_blank" alt="Trailhead Module - Einstein Bots Basics">Trailhead Module - Einstein Bots Basics</a></li>
 
-<li><a href="https://trailhead.salesforce.com/modules/artificial-intelligence-for-customer-service" target="_blank" alt="Trailhead Module - Artificial Intelligence for Customer Service"></a>Trailhead Module - Artificial Intelligence for Customer Service</li>
+<li><a href="https://trailhead.salesforce.com/modules/artificial-intelligence-for-customer-service" target="_blank" alt="Trailhead Module - Artificial Intelligence for Customer Service">Trailhead Module - Artificial Intelligence for Customer Service</a></li>
+
+</ol>
+
+## Einstein Bots in Metadata API & Deployment
+<ol type="1">
+  
+<li><a href="https://developer.salesforce.com/docs/atlas.en-us.api_meta.meta/api_meta/meta_bot.htm" target="_blank" alt="Bot in Metadata API">Bot in Metadata API</a></li>
+
+<li><a href="https://developer.salesforce.com/docs/atlas.en-us.api_meta.meta/api_meta/meta_botversion.htm" target="_blank" alt="BotVersion in Metadata API">BotVersion in Metadata API</a></li>
 
 </ol>
 
