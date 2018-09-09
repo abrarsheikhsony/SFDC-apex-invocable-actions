@@ -32,8 +32,8 @@
 <ol type="1">
 <li>Update Einstein Bots Configuration under Live Agent > Chat Buttons & Invitations (in Salesforce Classic)</li>
 <li>Update Snap-in Chat Deployment Settings (in Lightning Experience)</li>
-<li>New Permission Set = sfdc.chatbot.service.permset (after enabling Einstein Bot and Live Agent channel)</li>
-<li>Note: This permission set controls what Objects and Apex classes Bots can access in your Salesforce org</li>
+<li>New Permission Set = <b>sfdc.chatbot.service.permset</b> (after enabling Einstein Bot and Live Agent channel)</li>
+<li><b>Note:</b> This permission set controls what Objects and Apex classes Bots can access in your Salesforce org</li>
 </ol>
 
 
