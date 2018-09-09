@@ -45,6 +45,49 @@
 
 </ol>
 
+## Salesforce Winter'19 Release
+<ol type="1">
+  
+<li><a href="https://releasenotes.docs.salesforce.com/en-us/winter19/release-notes/rn_service_bots.htm" target="_blank" alt="Einstein Bots: Process Automation Flows, Improved Flexibility, and More Detailed Session Logs">Einstein Bots: Process Automation Flows, Improved Flexibility, and More Detailed Session Logs</a></li>
+
+<li><a href="https://releasenotes.docs.salesforce.com/en-us/winter19/release-notes/rn_forcecom_flow_bots.htm" target="_blank" alt="Use Autolaunched Flows in Einstein Bots—No Coding Required">Use Autolaunched Flows in Einstein Bots—No Coding Required</a></li>
+
+<li><a href="https://releasenotes.docs.salesforce.com/en-us/winter19/release-notes/fsc_bots.htm" target="_blank" alt="Deploy Einstein Bots for Financial Services Cloud">Deploy Einstein Bots for Financial Services Cloud</a></li>
+
+</ol>
+
+## Salesforce Summer'18 Release
+<ol type="1">
+  
+<li><a href="https://releasenotes.docs.salesforce.com/en-us/summer18/release-notes/rn_service_bots.htm" target="_blank" alt="Service Cloud: Einstein Bots to the Rescue: Boost Service Team Productivity with Bots (Generally Available)">Service Cloud: Einstein Bots to the Rescue: Boost Service Team Productivity with Bots (Generally Available)</a></li>
+
+<li><a href="https://developer.salesforce.com/blogs/2018/06/summer18-einstein-bots-for-the-people.html" target="_blank" alt="Einstein Bots For the People">Einstein Bots For the People</a></li>
+
+</ol>
+
+## Apex Invocable Actions
+<ol type="1">
+  
+<li><a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_InvocableMethod.htm" target="_blank" alt="Apex: InvocableMethod Annotation">Apex: InvocableMethod Annotation</a></li>
+
+<li><a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_InvocableVariable.htm" target="_blank" alt="Apex: InvocableVariable Annotation">Apex: InvocableVariable Annotation</a></li>
+
+</ol>
+
+## Salesforce Developers Sessions on YouTube
+<ol type="1">
+  
+<li><a href="https://www.salesforce.com/video/1756700/" target="_blank" alt="Einstein Agents: How To Set Up Service Cloud Chatbots In A Few Easy Steps">Einstein Agents: How To Set Up Service Cloud Chatbots In A Few Easy Steps</a></li>
+
+<li><a href="https://www.salesforce.com/video/1768002/" target="_blank" alt="Dreamforce 2017 - Einstein Bots: Using AI to Deliver the Future of Customer Service">Dreamforce 2017 - Einstein Bots: Using AI to Deliver the Future of Customer Service</a></li>
+
+<li><a href="https://www.youtube.com/watch?v=i9TbAkRNNa0" target="_blank" alt="Einstein Bots: Build a CRM Powered Chatbot">Einstein Bots: Build a CRM Powered Chatbot</a></li>
+
+<li><a href="https://www.youtube.com/watch?v=Z2v0Dv6nWaI" target="_blank" alt="Salesforce Apex Hours: Einstein Bots">Salesforce Apex Hours: Einstein Bots</a></li>
+
+<li><a href="https://www.youtube.com/watch?v=f-U2xlLjiyE" target="_blank" alt="Service Cloud: Einstein Bots">Service Cloud: Einstein Bots</a></li>
+
+</ol>
 
 
 
