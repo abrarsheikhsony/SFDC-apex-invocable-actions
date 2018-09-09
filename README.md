@@ -104,24 +104,6 @@
 
 <li><a href="https://www.salesforce.com/products/einstein/ai-deep-dive/" target="_blank" alt="Take a deep dive into artificial intelligence">Take a deep dive into artificial intelligence</a></li>
 
-<li><a href="https://in.accenture.com/artificialintelligence/virtual-agents/" target="_blank" alt="Accenture services for Virtual Agents">Accenture services for Virtual Agents</a></li>
-
 <li><a href="https://tact.ai/" target="_blank" alt="Amazon, Microsoft, Salesforce">Amazon, Microsoft, Salesforce</a></li>
-
-</ol>
-
-
-
-
-
-
-
-
-
-
-## Salesforce Success Community Group
-<ol type="1">
-  
-<li><a href="" target="_blank" alt=""></a></li>
 
 </ol>
