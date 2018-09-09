@@ -3,6 +3,28 @@
 ## Presentation deck of "Get Started Building a ChatBot with Einstein Bots" from Dreamforce 28 September 2018
 <a href="https://www.slideshare.net/secret/CjvJYDcjZ8Uqjg" target="_blank" alt="Get Started Building a ChatBot with Einstein Bots">Get Started Building a ChatBot with Einstein Bots</a>
 
+## Pre-Requisites for Einstein Bots
+<ol type="1">
+
+<li>Feature Licenses: Service Cloud license and Live Agent license</li>
+
+<li>Enable Lightning Experience</li>
+
+<li>Create & Publish a Lightning (Force.com) Site "or" a Salesforce Community</li>
+
+<li>Enable Salesforce Knowledge (optional)</li>
+
+<li><a href="https://help.salesforce.com/articleView?id=security_keys_creating.htm&type=5" target="_blank" alt="Create a Self-Signed Certificate">Create a Self-Signed Certificate</a></li>
+
+<li><a href="https://help.salesforce.com/articleView?id=live_agent_lightning_experience_setup_flow.htm&type=5#live_agent_lightning_experience_setup_flow" target="_blank" alt="Run the Live Agent guided setup flow">Run the Live Agent guided setup flow</a></li>
+
+<li>Enable Einstein Bot and enable/active Deployment Channel Live Agent</li>
+
+<li>Updated Einstein.ai with Self-Signed Certificate</li>
+
+<li>Provide a Snap-ins chat button for your customers on Lightning (Force.com) Site "or" a Salesforce Community</li>
+
+</ol>
 
 
 
