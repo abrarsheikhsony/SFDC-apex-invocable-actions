@@ -1,6 +1,11 @@
-//
-//
-//
+/*----------------------------------------------------------------------
+Name:       CourseEnrolledInsertAction.cls
+Purpose:    Insert CourseEnrolled__c record
+------------------------------History----------------------------------
+Version     Author              Date                        Detail Description 
+-------     --------------      -----------------           ------------------
+1.0         Muhammad Abrar      10-September-2018           Initial Development 
+----------------------------------------------------------------------*/
 public with sharing class CourseEnrolledInsertAction{
 
     public class CourseEnrolledInput {
@@ -16,6 +21,15 @@ public with sharing class CourseEnrolledInsertAction{
         public CourseEnrolled__c courseEnrolledRecord;
     }
 
+    /*----------------------------------------------------------------------
+    Purpose:    Insert CourseEnrolled__c record
+    Parameters: CourseEnrolledInput
+    Returns:    CourseEnrolledOutput
+    ------------------------------History----------------------------------
+    Version     Author              Date                        Detail Description 
+    -------     --------------      -----------------           ------------------
+    1.0         Muhammad Abrar      10-September-2018           Initial Development
+    ----------------------------------------------------------------------*/
     @InvocableMethod(label='Insert Course Enrolled' description='Create Course Enrolled record.')
     public static List<CourseEnrolledOutput> insertCourseEnrolled(List<CourseEnrolledInput> inputs) {
         List<CourseEnrolledOutput> results = new List<CourseEnrolledOutput>();

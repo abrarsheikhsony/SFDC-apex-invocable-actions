@@ -1,6 +1,11 @@
-//
-//
-//
+/*----------------------------------------------------------------------
+Name:       CourseEnrolledUpdateAction.cls
+Purpose:    Update CourseEnrolled__c record
+------------------------------History----------------------------------
+Version     Author              Date                        Detail Description 
+-------     --------------      -----------------           ------------------
+1.0         Muhammad Abrar      10-September-2018           Initial Development 
+----------------------------------------------------------------------*/
 public with sharing class CourseEnrolledUpdateAction{
 
     public class CourseEnrolledInput {
@@ -16,6 +21,15 @@ public with sharing class CourseEnrolledUpdateAction{
         public CourseEnrolled__c courseEnrolRecord;
     }
     
+    /*----------------------------------------------------------------------
+    Purpose:    Update CourseEnrolled__c record
+    Parameters: CourseEnrolledInput
+    Returns:    CourseEnrolledOutput
+    ------------------------------History----------------------------------
+    Version     Author              Date                        Detail Description 
+    -------     --------------      -----------------           ------------------
+    1.0         Muhammad Abrar      10-September-2018           Initial Development
+    ----------------------------------------------------------------------*/
     @InvocableMethod(label='Update Course Enrol' description='Update course enrol record.')
     public static List<CourseEnrolledOutput> getCourses(List<CourseEnrolledInput> inputs) {
         List<CourseEnrolledOutput> lstCourseEnrolls = new List<CourseEnrolledOutput>();
