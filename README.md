@@ -74,7 +74,7 @@
 
 </ol>
 
-## Salesforce Developers Sessions on YouTube
+## Einstein Bot Sessions on YouTube
 <ol type="1">
   
 <li><a href="https://www.salesforce.com/video/1756700/" target="_blank" alt="Einstein Agents: How To Set Up Service Cloud Chatbots In A Few Easy Steps">Einstein Agents: How To Set Up Service Cloud Chatbots In A Few Easy Steps</a></li>
