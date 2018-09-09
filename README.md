@@ -89,6 +89,28 @@
 
 </ol>
 
+## Other Useful Resources
+<ol type="1">
+  
+<li><a href="https://chatbotsmagazine.com/einstein-bots-using-ai-to-deliver-the-future-of-customer-service-b6df3786884f" target="_blank" alt="Einstein Bots: Using AI to deliver the Future of Customer Service">Einstein Bots: Using AI to deliver the Future of Customer Service</a></li>
+
+<li><a href="https://www.salesforce.com/blog/2017/11/the-magic-of-einstein-bot.html" target="_blank" alt="The Magic of Einstein Bot">The Magic of Einstein Bot</a></li>
+
+<li><a href="https://dawidnaude.com/what-does-einstein-bots-mean-for-salesforce-customers-and-partners-80fdcb941a3f" target="_blank" alt="What does Einstein Bots mean for Salesforce customers and partners?">What does Einstein Bots mean for Salesforce customers and partners?</a></li>
+
+<li><a href="https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca" target="_blank" alt="The Complete Beginner’s Guide To Chatbots">The Complete Beginner’s Guide To Chatbots</a></li>
+
+<li><a href="https://developer.salesforce.com/blogs/developer-relations/2017/03/bot-toolkit-creating-deploying-bots-inside-salesforce.html" target="_blank" alt="A Toolkit for Creating and Deploying Bots Inside Salesforce (Custom ChatBots)">A Toolkit for Creating and Deploying Bots Inside Salesforce (Custom ChatBots)</a></li>
+
+<li><a href="https://www.salesforce.com/products/einstein/ai-deep-dive/" target="_blank" alt="Take a deep dive into artificial intelligence">Take a deep dive into artificial intelligence</a></li>
+
+<li><a href="https://in.accenture.com/artificialintelligence/virtual-agents/" target="_blank" alt="Accenture services for Virtual Agents">Accenture services for Virtual Agents</a></li>
+
+<li><a href="https://tact.ai/" target="_blank" alt="Amazon, Microsoft, Salesforce">Amazon, Microsoft, Salesforce</a></li>
+
+</ol>
+
+
 
 
 
