@@ -10,6 +10,9 @@ public with sharing class CourseEnrolledInsertAction{
 
     public class CourseEnrolledInput {
         @InvocableVariable(required=true)
+        public String contactEmailAddress;
+
+        @InvocableVariable(required=true)
         public String selectedLocation;
         
         @InvocableVariable(required=true)
@@ -37,11 +40,11 @@ public with sharing class CourseEnrolledInsertAction{
         for(CourseEnrolledInput input : inputs){
             User userRecord = [SELECT Id, Name, AccountId, ContactId FROM User WHERE Id = :Userinfo.getUserId() LIMIT 1];
             
-            Account accountRecord = [SELECT Id FROM Account WHERE Name = 'FutureSkills' LIMIT 1];
-            Contact contactRecord = [SELECT Id FROM Contact WHERE AccountId = :accountRecord.Id LIMIT 1];
+            //Account accountRecord = [SELECT Id FROM Account WHERE Name = 'FutureSkills' LIMIT 1];
+            Contact contactRecord = [SELECT Id, Name, Email, AccountId, Account.Name FROM Contact WHERE Email = :input.contactEmailAddress LIMIT 1];
             
             CourseEnrolled__c courseEnrolled = new CourseEnrolled__c();
-                courseEnrolled.Account__c = accountRecord.Id;
+                courseEnrolled.Account__c = contactRecord.AccountId;//accountRecord.Id;
                 courseEnrolled.Contact__c = contactRecord.Id;
                 courseEnrolled.Course__c = input.courseRecord.Id;
                 courseEnrolled.StartDate__c = System.today()+5;

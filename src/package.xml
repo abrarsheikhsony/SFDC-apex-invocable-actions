@@ -5,12 +5,16 @@
         <name>ApexClass</name>
     </types>
     <types>
-        <members>FutureSkills</members>
-        <name>Bot</name>
+        <members>*</members>
+        <name>ApexComponent</name>
     </types>
     <types>
-        <members>FutureSkills.v1</members>
-        <name>BotVersion</name>
+        <members>*</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ApexTrigger</name>
     </types>
     <types>
         <members>CourseEnrolled__c</members>
@@ -38,5 +42,9 @@
         <members>*</members>
         <name>LiveChatSensitiveDataRule</name>
     </types>
-    <version>43.0</version>
+    <types>
+        <members>*</members>
+        <name>PermissionSet</name>
+    </types>
+    <version>41.0</version>
 </Package>
