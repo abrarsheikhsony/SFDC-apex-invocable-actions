@@ -36,6 +36,17 @@
 <li><b>Note:</b> This permission set controls what Objects and Apex classes Bots can access in your Salesforce org</li>
 </ol>
 
+## Look & Feel in Salesforce
+<ol type="1">
+<li></li>
+<img src="supportedimages/001.png"/>
+
+<li></li>
+<img src="supportedimages/002.png"/>
+
+<li></li>
+<img src="supportedimages/003.png"/>
+</ol>
 
 
 
