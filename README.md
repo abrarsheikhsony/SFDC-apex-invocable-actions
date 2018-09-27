@@ -1,7 +1,10 @@
 # Apex Invocable Actions
 
-## Presentation deck of "Get Started Building a ChatBot with Einstein Bots" from Dreamforce 28 September 2018
-<a href="https://www.slideshare.net/secret/CjvJYDcjZ8Uqjg" target="_blank" alt="Get Started Building a ChatBot with Einstein Bots">Get Started Building a ChatBot with Einstein Bots</a>
+## Salesforce Dreamforce 2018 Session
+<a href="https://success.salesforce.com/sessions?eventId=a1Q3A00001XoCSUUA3#/session/a2q3A000001WVLyQAO" target="_blank" alt="Build a ChatBot with Einstein Bots">Build a ChatBot with Einstein Bots</a>
+
+## Presentation slides for "Get Started Building a ChatBot with Einstein Bots"
+<a href="https://www.slideshare.net/secret/FIYDTrAISkxtzf" target="_blank" alt="Get Started Building a ChatBot with Einstein Bots">Get Started Building a ChatBot with Einstein Bots</a>
 
 ## Pre-Requisites for Einstein Bots
 <ol type="1">
