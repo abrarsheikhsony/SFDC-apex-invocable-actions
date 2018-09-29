@@ -5,9 +5,6 @@
 
 <img src="supportedimages/EinsteinBotsSocialNetworking.jpg"/>
 
-## Presentation slides for "Get Started Building a ChatBot with Einstein Bots"
-<a href="https://www.slideshare.net/secret/FIYDTrAISkxtzf" target="_blank" alt="Get Started Building a ChatBot with Einstein Bots">Get Started Building a ChatBot with Einstein Bots</a>
-
 ## Pre-Requisites for Einstein Bots
 <ol type="1">
 
