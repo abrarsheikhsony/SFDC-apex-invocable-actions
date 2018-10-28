@@ -1,4 +1,4 @@
-# Apex Invocable Actions
+# Build a ChatBot with Einstein Bots
 
 ## Salesforce Dreamforce 2018 Session
 <a href="https://success.salesforce.com/sessions?eventId=a1Q3A00001XoCSUUA3#/session/a2q3A000001WVLyQAO" target="_blank" alt="Build a ChatBot with Einstein Bots">Build a ChatBot with Einstein Bots</a>
