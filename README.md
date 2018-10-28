@@ -154,62 +154,78 @@
 
 </ol>
 
-
-
-
-
-
-
-
-
-## TEST
+## Salesforce Winter '19 Release
 <ol type="1">
   
-<li><a href="" target="_blank" alt="TEST">test</a></li>
+<li><a href="https://releasenotes.docs.salesforce.com/en-us/winter19/release-notes/rn_service_bots.htm" target="_blank" alt="Einstein Bots">Einstein Bots</a></li>
+
+<li><a href="https://releasenotes.docs.salesforce.com/en-us/winter19/release-notes/rn_forcecom_flow_bots.htm" target="_blank" alt="Use Autolaunched Flows in Einstein Bots—No Coding Required">Use Autolaunched Flows in Einstein Bots—No Coding Required</a></li>
+
+<li><a href="https://releasenotes.docs.salesforce.com/en-us/winter19/release-notes/fsc_bots.htm" target="_blank" alt="Deploy Einstein Bots for Financial Services Cloud">Deploy Einstein Bots for Financial Services Cloud</a></li>
+
+<li><a href="https://releasenotes.docs.salesforce.com/en-us/winter19/release-notes/rn_snap-ins_sdk.htm" target="_blank" alt="Snap-Ins for Mobile Apps: Use Einstein Bots in Your Native App">Snap-Ins for Mobile Apps: Use Einstein Bots in Your Native App</a></li>
 
 </ol>
 
-
-
-## TEST
+## Sessions / Webinars
 <ol type="1">
   
-<li><a href="" target="_blank" alt="TEST">test</a></li>
+<li><a href="https://www.salesforce.com/video/search/?video-search=Einstein%5EBots" target="_blank" alt="Dreamforce 2018 Einstein Bots Sessions">Dreamforce 2018 Einstein Bots Sessions</a></li>
+
+<li><a href="https://www.salesforce.com/video/3620971" target="_blank" alt="Build a ChatBot with Einstein Bots">Build a ChatBot with Einstein Bots</a></li>
+
+<li><a href="https://www.salesforce.com/video/3621377" target="_blank" alt="Build a ChatBot with Einstein Bots (2)">Build a ChatBot with Einstein Bots (2)</a></li>
+
+<li><a href="https://www.youtube.com/watch?v=f-U2xlLjiyE" target="_blank" alt="Service Cloud: Einstein Bots">Service Cloud: Einstein Bots</a></li>
+
+<li><a href="https://www.salesforce.com/video/1756700/" target="_blank" alt="Einstein Agents: How To Set Up Service Cloud Chatbots In A Few Easy Steps">Einstein Agents: How To Set Up Service Cloud Chatbots In A Few Easy Steps</a></li>
+
+<li><a href="https://www.salesforce.com/video/1768002/" target="_blank" alt="Dreamforce 2017 - Einstein Bots: Using AI to Deliver the Future of Customer Service">Dreamforce 2017 - Einstein Bots: Using AI to Deliver the Future of Customer Service</a></li>
+
+<li><a href="https://www.youtube.com/watch?v=i9TbAkRNNa0" target="_blank" alt="Einstein Bots: Build a CRM Powered Chatbot">Einstein Bots: Build a CRM Powered Chatbot</a></li>
+
+<li><a href="https://www.youtube.com/watch?v=Z2v0Dv6nWaI" target="_blank" alt="Salesforce Apex Hours: Einstein Bots">Salesforce Apex Hours: Einstein Bots</a></li>
+
+<li><a href="https://www.youtube.com/watch?v=0aptOS2GM6A" target="_blank" alt="Einstein Bots setup in salesforce">Einstein Bots setup in salesforce</a></li>
 
 </ol>
 
-
-
-## TEST
+## Einstein Bots in Metadata API
 <ol type="1">
   
-<li><a href="" target="_blank" alt="TEST">test</a></li>
+<li><a href="https://releasenotes.docs.salesforce.com/en-us/summer18/release-notes/rn_deployment_change_sets.htm" target="_blank" alt="Einstein Bots Components in Metadata API">Einstein Bots Components in Metadata API</a></li>
+
+<li><a href="https://developer.salesforce.com/docs/atlas.en-us.api_meta.meta/api_meta/meta_bot.htm" target="_blank" alt="Bot in Metadata API">Bot in Metadata API</a></li>
+
+<li><a href="https://developer.salesforce.com/docs/atlas.en-us.api_meta.meta/api_meta/meta_botversion.htm" target="_blank" alt="BotVersion in Metadata API">BotVersion in Metadata API</a></li>
 
 </ol>
 
-
-
-## TEST
+## Apex Invocable Annotations
 <ol type="1">
   
-<li><a href="" target="_blank" alt="TEST">test</a></li>
+<li><a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_InvocableMethod.htm" target="_blank" alt="Apex InvocableMethod  Annotation">Apex InvocableMethod  Annotation</a></li>
+
+<li><a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_InvocableVariable.htm" target="_blank" alt="Apex InvocableVariable Annotation">Apex InvocableVariable Annotation</a></li>
 
 </ol>
 
-
-
-## TEST
+## Other Blogs
 <ol type="1">
   
-<li><a href="" target="_blank" alt="TEST">test</a></li>
+<li><a href="https://dawidnaude.com/what-does-einstein-bots-mean-for-salesforce-customers-and-partners-80fdcb941a3f" target="_blank" alt="What does Einstein Bots mean for Salesforce customers and partners?">What does Einstein Bots mean for Salesforce customers and partners?</a></li>
+
+<li><a href="http://amitsalesforce.blogspot.com/2016/08/live-agent-implementation-setting-up.html" target="_blank" alt="How to Setup Live Agent?">How to Setup Live Agent?</a></li>
+
+<li><a href="http://amitsalesforce.blogspot.com/2018/06/einstein-bots-how-to-setup-einstein-bot.html" target="_blank" alt="Einstein Bots | How to Setup Einstein Bot | Summer 18">Einstein Bots | How to Setup Einstein Bot | Summer 18</a></li>
+
+<li><a href="http://deepikamatam.blogspot.com/2018/07/einstein-bot-creation-step-by-step.html" target="_blank" alt="Einstein Bot Creation Step By Step">Einstein Bot Creation Step By Step</a></li>
 
 </ol>
 
-
-
-## TEST
+## Emojis as Content within Chatbots and NLPs
 <ol type="1">
   
-<li><a href="" target="_blank" alt="TEST">test</a></li>
+<li><a href="https://www.smalltalk.ai/blog/2016/12/9/how-to-use-emojis-as-content-within-chatbots-and-nlps" target="_blank" alt="Emojis as Content within Chatbots and NLPs">Emojis as Content within Chatbots and NLPs</a></li>
 
 </ol>
