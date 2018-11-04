@@ -229,3 +229,11 @@
 <li><a href="https://www.smalltalk.ai/blog/2016/12/9/how-to-use-emojis-as-content-within-chatbots-and-nlps" target="_blank" alt="Emojis as Content within Chatbots and NLPs">Emojis as Content within Chatbots and NLPs</a></li>
 
 </ol>
+
+## Regex for Custom Entities
+<ul>
+<li>^O\-\d{8}$ = e.g. "O-00123456"</li>
+<li>Note: For those of you who are not familiar with regular expression, this indicates an order number must start with a letter O, followed by a dash , then end with 8 numbers.</li>
+<li>^CE\-\d{4}$ = e.g. "CE-0007"</li>
+<li>\b\w+@[a-zA-Z_]+?\.[a-zA-Z]{2,3}\b = marcbenioff@futurelearn.com</li>
+</ul>
