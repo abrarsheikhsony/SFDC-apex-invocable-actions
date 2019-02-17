@@ -167,14 +167,6 @@
 
 <li><a href="https://developer.salesforce.com/blogs/2018/06/summer18-einstein-bots-for-the-people.html" target="_blank" alt="Summer’18: Einstein Bots For the People">Summer’18: Einstein Bots For the People</a></li>
 
-<li><a href="" target="_blank" alt="TEST">TEST</a></li>
-
-<li><a href="" target="_blank" alt="TEST">TEST</a></li>
-
-<li><a href="" target="_blank" alt="TEST">TEST</a></li>
-
-<li><a href="" target="_blank" alt="TEST">TEST</a></li>
-
 </ol>
 
 ## Salesforce Winter '19 Release
@@ -214,6 +206,17 @@
 <li><a href="https://www.youtube.com/watch?v=Z2v0Dv6nWaI" target="_blank" alt="Salesforce Apex Hours: Einstein Bots">Salesforce Apex Hours: Einstein Bots</a></li>
 
 <li><a href="https://www.youtube.com/watch?v=0aptOS2GM6A" target="_blank" alt="Einstein Bots setup in salesforce">Einstein Bots setup in salesforce</a></li>
+
+</ol>
+
+## Salesforce Admin Podcasts
+<ol type="1">
+  
+<li><a href="https://admin.salesforce.com/what-is-a-bot-with-george-hu" target="_blank" alt="What is a Bot? with George Hu">What is a Bot? with George Hu</a></li>
+
+<li><a href="https://admin.salesforce.com/how-einstein-bots-work-with-molly-mahar" target="_blank" alt="How Einstein Bots Work with Molly Mahar">How Einstein Bots Work with Molly Mahar</a></li>
+
+<li><a href="https://admin.salesforce.com/designing-your-first-bot-with-greg-bennett" target="_blank" alt="Designing Your First Bot with Greg Bennett">Designing Your First Bot with Greg Bennett</a></li>
 
 </ol>
 
