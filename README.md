@@ -167,6 +167,17 @@
 
 </ol>
 
+## Salesforce Admin Podcasts
+<ol type="1">
+  
+<li><a href="https://admin.salesforce.com/what-is-a-bot-with-george-hu" target="_blank" alt="What is a Bot? with George Hu">What is a Bot? with George Hu</a></li>
+
+<li><a href="https://admin.salesforce.com/how-einstein-bots-work-with-molly-mahar" target="_blank" alt="How Einstein Bots Work with Molly Mahar">How Einstein Bots Work with Molly Mahar</a></li>
+
+<li><a href="https://admin.salesforce.com/designing-your-first-bot-with-greg-bennett" target="_blank" alt="Designing Your First Bot with Greg Bennett">Designing Your First Bot with Greg Bennett</a></li>
+
+</ol>
+
 ## Salesforce Blogs
 <ol type="1">
   
@@ -196,17 +207,6 @@
 <li><a href="https://releasenotes.docs.salesforce.com/en-us/winter19/release-notes/fsc_bots.htm" target="_blank" alt="Deploy Einstein Bots for Financial Services Cloud">Deploy Einstein Bots for Financial Services Cloud</a></li>
 
 <li><a href="https://releasenotes.docs.salesforce.com/en-us/winter19/release-notes/rn_snap-ins_sdk.htm" target="_blank" alt="Snap-Ins for Mobile Apps: Use Einstein Bots in Your Native App">Snap-Ins for Mobile Apps: Use Einstein Bots in Your Native App</a></li>
-
-</ol>
-
-## Salesforce Admin Podcasts
-<ol type="1">
-  
-<li><a href="https://admin.salesforce.com/what-is-a-bot-with-george-hu" target="_blank" alt="What is a Bot? with George Hu">What is a Bot? with George Hu</a></li>
-
-<li><a href="https://admin.salesforce.com/how-einstein-bots-work-with-molly-mahar" target="_blank" alt="How Einstein Bots Work with Molly Mahar">How Einstein Bots Work with Molly Mahar</a></li>
-
-<li><a href="https://admin.salesforce.com/designing-your-first-bot-with-greg-bennett" target="_blank" alt="Designing Your First Bot with Greg Bennett">Designing Your First Bot with Greg Bennett</a></li>
 
 </ol>
 
