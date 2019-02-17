@@ -148,10 +148,6 @@
 
 <li><a href="https://help.salesforce.com/articleView?id=bots_service_intro.htm&type=5" target="_blank" alt="Einstein Bots Documentation">Einstein Bots Documentation</a></li>
 
-<li><a href="" target="_blank" alt="TEST">TEST</a></li>
-
-<li><a href="" target="_blank" alt="TEST">TEST</a></li>
-
 </ol>
 
 ## Salesforce Blogs
@@ -170,6 +166,14 @@
 <li><a href="https://developer.salesforce.com/blogs/developer-relations/2017/03/bot-toolkit-creating-deploying-bots-inside-salesforce.html" target="_blank" alt="A Toolkit for Creating and Deploying Bots Inside Salesforce (Custom ChatBots)">A Toolkit for Creating and Deploying Bots Inside Salesforce (Custom ChatBots)</a></li>
 
 <li><a href="https://developer.salesforce.com/blogs/2018/06/summer18-einstein-bots-for-the-people.html" target="_blank" alt="Summer’18: Einstein Bots For the People">Summer’18: Einstein Bots For the People</a></li>
+
+<li><a href="" target="_blank" alt="TEST">TEST</a></li>
+
+<li><a href="" target="_blank" alt="TEST">TEST</a></li>
+
+<li><a href="" target="_blank" alt="TEST">TEST</a></li>
+
+<li><a href="" target="_blank" alt="TEST">TEST</a></li>
 
 </ol>
 
@@ -196,6 +200,8 @@
 <li><a href="https://www.salesforce.com/video/3620971" target="_blank" alt="Build a ChatBot with Einstein Bots">Build a ChatBot with Einstein Bots</a></li>
 
 <li><a href="https://www.salesforce.com/video/3621377" target="_blank" alt="Build a ChatBot with Einstein Bots (2)">Build a ChatBot with Einstein Bots (2)</a></li>
+
+<li><a href="https://www.salesforce.com/video/3596171/" target="_blank" alt="Design A Natural Bot Conversation In 10 Steps">Design A Natural Bot Conversation In 10 Steps</a></li>
 
 <li><a href="https://www.youtube.com/watch?v=f-U2xlLjiyE" target="_blank" alt="Service Cloud: Einstein Bots">Service Cloud: Einstein Bots</a></li>
 
