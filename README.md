@@ -133,8 +133,6 @@
 
 <li><a href="https://trailhead.salesforce.com/en/content/learn/modules/get_smart_einstein_feat" target="_blank" alt="Salesforce Einstein Basics">Salesforce Einstein Basics</a></li>
 
-<li><a href="https://trailhead.salesforce.com/en/content/learn/modules/service_bots_basics?trail_id=service_cloud_move" target="_blank" alt="Einstein Bots Basics">Einstein Bots Basics</a></li>
-
 <li><a href="https://trailhead.salesforce.com/en/content/learn/projects/build-an-einstein-bot" target="_blank" alt="Project: Build an Einstein Bot">Project: Build an Einstein Bot</a></li>
 
 </ol>
@@ -142,11 +140,11 @@
 ## Salesforce Guides
 <ol type="1">
 
+<li><a href="https://help.salesforce.com/articleView?id=bots_service_intro.htm&type=5" target="_blank" alt="Einstein Bots Documentation">Einstein Bots Documentation</a></li>
+
 <li><a href="https://developer.salesforce.com/docs/atlas.en-us.bot_cookbook.meta/bot_cookbook/bot_cookbook_overview.htm" target="_blank" alt="Einstein Bots Developer Cookbook">Einstein Bots Developer Cookbook</a></li>
 
 <li><a href="https://sfdc.co/BotsGuide2" target="_blank" alt="Einstein Bots Intermediate Book (Summer 18)">Einstein Bots Intermediate Book (Summer 18)</a></li>
-
-<li><a href="https://help.salesforce.com/articleView?id=bots_service_intro.htm&type=5" target="_blank" alt="Einstein Bots Documentation">Einstein Bots Documentation</a></li>
 
 </ol>
 
