@@ -133,7 +133,24 @@
 
 <li><a href="https://trailhead.salesforce.com/en/content/learn/modules/get_smart_einstein_feat" target="_blank" alt="Salesforce Einstein Basics">Salesforce Einstein Basics</a></li>
 
+<li><a href="https://trailhead.salesforce.com/en/content/learn/modules/service_bots_basics?trail_id=service_cloud_move" target="_blank" alt="Einstein Bots Basics">Einstein Bots Basics</a></li>
+
 <li><a href="https://trailhead.salesforce.com/en/content/learn/projects/build-an-einstein-bot" target="_blank" alt="Project: Build an Einstein Bot">Project: Build an Einstein Bot</a></li>
+
+</ol>
+
+## Salesforce Guides
+<ol type="1">
+
+<li><a href="https://developer.salesforce.com/docs/atlas.en-us.bot_cookbook.meta/bot_cookbook/bot_cookbook_overview.htm" target="_blank" alt="Einstein Bots Developer Cookbook">Einstein Bots Developer Cookbook</a></li>
+
+<li><a href="https://sfdc.co/BotsGuide2" target="_blank" alt="Einstein Bots Intermediate Book (Summer 18)">Einstein Bots Intermediate Book (Summer 18)</a></li>
+
+<li><a href="https://help.salesforce.com/articleView?id=bots_service_intro.htm&type=5" target="_blank" alt="Einstein Bots Documentation">Einstein Bots Documentation</a></li>
+
+<li><a href="" target="_blank" alt="TEST">TEST</a></li>
+
+<li><a href="" target="_blank" alt="TEST">TEST</a></li>
 
 </ol>
 
@@ -143,6 +160,8 @@
 <li><a href="https://www.salesforce.com/blog/2017/11/the-magic-of-einstein-bot.html" target="_blank" alt="The Magic of Einstein Bot">The Magic of Einstein Bot</a></li>
 
 <li><a href="https://help.salesforce.com/articleView?id=bots_service_intro.htm&type=5" target="_blank" alt="Einstein Bots for Service Cloud">Einstein Bots for Service Cloud</a></li>
+
+<li><a href="https://chatbotsmagazine.com/design-framework-for-chatbots-aa27060c4ea3" target="_blank" alt="Design Framework for Chatbots">Design Framework for Chatbots</a></li>
 
 <li><a href="https://chatbotsmagazine.com/einstein-bots-using-ai-to-deliver-the-future-of-customer-service-b6df3786884f" target="_blank" alt="Einstein Bots: Using AI to deliver the Future of Customer Service">Einstein Bots: Using AI to deliver the Future of Customer Service</a></li>
 
@@ -169,7 +188,9 @@
 
 ## Sessions / Webinars
 <ol type="1">
-  
+
+<li><a href="https://www.youtube.com/watch?v=hN99byEIO04&feature=youtu.be&t=53m13s" target="_blank" alt="Einstein Bots - Release Readiness Live">Einstein Bots - Release Readiness Live</a></li>
+
 <li><a href="https://www.salesforce.com/video/search/?video-search=Einstein%5EBots" target="_blank" alt="Dreamforce 2018 Einstein Bots Sessions">Dreamforce 2018 Einstein Bots Sessions</a></li>
 
 <li><a href="https://www.salesforce.com/video/3620971" target="_blank" alt="Build a ChatBot with Einstein Bots">Build a ChatBot with Einstein Bots</a></li>
