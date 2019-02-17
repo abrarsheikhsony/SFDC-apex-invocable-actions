@@ -148,6 +148,25 @@
 
 </ol>
 
+## Sessions / Webinars
+<ol type="1">
+
+<li><a href="https://www.youtube.com/watch?v=hN99byEIO04&feature=youtu.be&t=53m13s" target="_blank" alt="Einstein Bots - Release Readiness Live">Einstein Bots - Release Readiness Live</a></li>
+
+<li><a href="https://www.salesforce.com/video/search/?video-search=Einstein%5EBots" target="_blank" alt="Dreamforce 2018 Einstein Bots Sessions">Dreamforce 2018 Einstein Bots Sessions</a></li>
+
+<li><a href="https://www.salesforce.com/video/1756700/" target="_blank" alt="Einstein Agents: How To Set Up Service Cloud Chatbots In A Few Easy Steps">Einstein Agents: How To Set Up Service Cloud Chatbots In A Few Easy Steps</a></li>
+
+<li><a href="https://www.youtube.com/watch?v=i9TbAkRNNa0" target="_blank" alt="Einstein Bots: Build a CRM Powered Chatbot">Einstein Bots: Build a CRM Powered Chatbot</a></li>
+
+<li><a href="https://www.youtube.com/watch?v=f-U2xlLjiyE" target="_blank" alt="Summer '18 - Service Cloud: Einstein Bots">Summer '18 - Service Cloud: Einstein Bots</a></li>
+
+<li><a href="https://www.youtube.com/watch?v=Z2v0Dv6nWaI" target="_blank" alt="Salesforce Apex Hours: Einstein Bots">Salesforce Apex Hours: Einstein Bots</a></li>
+
+<li><a href="https://www.youtube.com/watch?v=0aptOS2GM6A" target="_blank" alt="Einstein Bots Setup in Salesforce">Einstein Bots Setup in Salesforce</a></li>
+
+</ol>
+
 ## Salesforce Blogs
 <ol type="1">
   
@@ -177,33 +196,6 @@
 <li><a href="https://releasenotes.docs.salesforce.com/en-us/winter19/release-notes/fsc_bots.htm" target="_blank" alt="Deploy Einstein Bots for Financial Services Cloud">Deploy Einstein Bots for Financial Services Cloud</a></li>
 
 <li><a href="https://releasenotes.docs.salesforce.com/en-us/winter19/release-notes/rn_snap-ins_sdk.htm" target="_blank" alt="Snap-Ins for Mobile Apps: Use Einstein Bots in Your Native App">Snap-Ins for Mobile Apps: Use Einstein Bots in Your Native App</a></li>
-
-</ol>
-
-## Sessions / Webinars
-<ol type="1">
-
-<li><a href="https://www.youtube.com/watch?v=hN99byEIO04&feature=youtu.be&t=53m13s" target="_blank" alt="Einstein Bots - Release Readiness Live">Einstein Bots - Release Readiness Live</a></li>
-
-<li><a href="https://www.salesforce.com/video/search/?video-search=Einstein%5EBots" target="_blank" alt="Dreamforce 2018 Einstein Bots Sessions">Dreamforce 2018 Einstein Bots Sessions</a></li>
-
-<li><a href="https://www.salesforce.com/video/3620971" target="_blank" alt="Build a ChatBot with Einstein Bots">Build a ChatBot with Einstein Bots</a></li>
-
-<li><a href="https://www.salesforce.com/video/3621377" target="_blank" alt="Build a ChatBot with Einstein Bots (2)">Build a ChatBot with Einstein Bots (2)</a></li>
-
-<li><a href="https://www.salesforce.com/video/3596171/" target="_blank" alt="Design A Natural Bot Conversation In 10 Steps">Design A Natural Bot Conversation In 10 Steps</a></li>
-
-<li><a href="https://www.youtube.com/watch?v=f-U2xlLjiyE" target="_blank" alt="Service Cloud: Einstein Bots">Service Cloud: Einstein Bots</a></li>
-
-<li><a href="https://www.salesforce.com/video/1756700/" target="_blank" alt="Einstein Agents: How To Set Up Service Cloud Chatbots In A Few Easy Steps">Einstein Agents: How To Set Up Service Cloud Chatbots In A Few Easy Steps</a></li>
-
-<li><a href="https://www.salesforce.com/video/1768002/" target="_blank" alt="Dreamforce 2017 - Einstein Bots: Using AI to Deliver the Future of Customer Service">Dreamforce 2017 - Einstein Bots: Using AI to Deliver the Future of Customer Service</a></li>
-
-<li><a href="https://www.youtube.com/watch?v=i9TbAkRNNa0" target="_blank" alt="Einstein Bots: Build a CRM Powered Chatbot">Einstein Bots: Build a CRM Powered Chatbot</a></li>
-
-<li><a href="https://www.youtube.com/watch?v=Z2v0Dv6nWaI" target="_blank" alt="Salesforce Apex Hours: Einstein Bots">Salesforce Apex Hours: Einstein Bots</a></li>
-
-<li><a href="https://www.youtube.com/watch?v=0aptOS2GM6A" target="_blank" alt="Einstein Bots setup in salesforce">Einstein Bots setup in salesforce</a></li>
 
 </ol>
 
