@@ -197,6 +197,19 @@
 
 </ol>
 
+## Other Blogs
+<ol type="1">
+  
+<li><a href="https://dawidnaude.com/what-does-einstein-bots-mean-for-salesforce-customers-and-partners-80fdcb941a3f" target="_blank" alt="What does Einstein Bots mean for Salesforce customers and partners?">What does Einstein Bots mean for Salesforce customers and partners?</a></li>
+
+<li><a href="http://amitsalesforce.blogspot.com/2016/08/live-agent-implementation-setting-up.html" target="_blank" alt="How to Setup Live Agent?">How to Setup Live Agent?</a></li>
+
+<li><a href="http://amitsalesforce.blogspot.com/2018/06/einstein-bots-how-to-setup-einstein-bot.html" target="_blank" alt="Einstein Bots | How to Setup Einstein Bot | Summer 18">Einstein Bots | How to Setup Einstein Bot | Summer 18</a></li>
+
+<li><a href="http://deepikamatam.blogspot.com/2018/07/einstein-bot-creation-step-by-step.html" target="_blank" alt="Einstein Bot Creation Step By Step">Einstein Bot Creation Step By Step</a></li>
+
+</ol>
+
 ## Salesforce Winter '19 Release
 <ol type="1">
   
@@ -207,6 +220,13 @@
 <li><a href="https://releasenotes.docs.salesforce.com/en-us/winter19/release-notes/fsc_bots.htm" target="_blank" alt="Deploy Einstein Bots for Financial Services Cloud">Deploy Einstein Bots for Financial Services Cloud</a></li>
 
 <li><a href="https://releasenotes.docs.salesforce.com/en-us/winter19/release-notes/rn_snap-ins_sdk.htm" target="_blank" alt="Snap-Ins for Mobile Apps: Use Einstein Bots in Your Native App">Snap-Ins for Mobile Apps: Use Einstein Bots in Your Native App</a></li>
+
+</ol>
+
+## Salesforce Spring '19 Release
+<ol type="1">
+
+<li><a href="https://releasenotes.docs.salesforce.com/en-us/spring19/release-notes/rn_service_einstein.htm" target="_blank" alt="Einstein features in Spring '19">Einstein features in Spring '19</a></li>
 
 </ol>
 
@@ -227,19 +247,6 @@
 <li><a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_InvocableMethod.htm" target="_blank" alt="Apex InvocableMethod  Annotation">Apex InvocableMethod  Annotation</a></li>
 
 <li><a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_InvocableVariable.htm" target="_blank" alt="Apex InvocableVariable Annotation">Apex InvocableVariable Annotation</a></li>
-
-</ol>
-
-## Other Blogs
-<ol type="1">
-  
-<li><a href="https://dawidnaude.com/what-does-einstein-bots-mean-for-salesforce-customers-and-partners-80fdcb941a3f" target="_blank" alt="What does Einstein Bots mean for Salesforce customers and partners?">What does Einstein Bots mean for Salesforce customers and partners?</a></li>
-
-<li><a href="http://amitsalesforce.blogspot.com/2016/08/live-agent-implementation-setting-up.html" target="_blank" alt="How to Setup Live Agent?">How to Setup Live Agent?</a></li>
-
-<li><a href="http://amitsalesforce.blogspot.com/2018/06/einstein-bots-how-to-setup-einstein-bot.html" target="_blank" alt="Einstein Bots | How to Setup Einstein Bot | Summer 18">Einstein Bots | How to Setup Einstein Bot | Summer 18</a></li>
-
-<li><a href="http://deepikamatam.blogspot.com/2018/07/einstein-bot-creation-step-by-step.html" target="_blank" alt="Einstein Bot Creation Step By Step">Einstein Bot Creation Step By Step</a></li>
 
 </ol>
 
