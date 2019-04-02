@@ -208,6 +208,8 @@
 
 <li><a href="http://deepikamatam.blogspot.com/2018/07/einstein-bot-creation-step-by-step.html" target="_blank" alt="Einstein Bot Creation Step By Step">Einstein Bot Creation Step By Step</a></li>
 
+<li><a href="https://www.gearscrm.com/einstein-bots-enhance-your-salesforce-service-cloud-with-chatbots/" target="_blank" alt="GEARS CRM: Einstein Bots - Enhance your Salesforce Service Cloud with Chatbots">GEARS CRM: Einstein Bots - Enhance your Salesforce Service Cloud with Chatbots</a></li>
+
 </ol>
 
 ## Salesforce Winter '19 Release
