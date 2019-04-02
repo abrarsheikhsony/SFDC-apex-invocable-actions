@@ -250,6 +250,13 @@
 
 </ol>
 
+## Industry Chat Bots
+<ol type="1">
+  
+<li><a href="https://www.salesforce.com/blog/2019/03/ai-chatbots-customer-intent.html" target="_blank" alt="TEST">TEST</a></li>
+
+</ol>
+
 ## Emojis as Content within Chatbots and NLPs
 <ol type="1">
   
