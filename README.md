@@ -253,7 +253,7 @@
 ## Industry Chat Bots
 <ol type="1">
   
-<li><a href="https://www.salesforce.com/blog/2019/03/ai-chatbots-customer-intent.html" target="_blank" alt="TEST">TEST</a></li>
+<li><a href="https://www.salesforce.com/blog/2019/03/ai-chatbots-customer-intent.html" target="_blank" alt="Getting Started with AI and Chatbots: What’s Top of Mind for Your Customers?">Getting Started with AI and Chatbots: What’s Top of Mind for Your Customers?</a></li>
 
 </ol>
 
