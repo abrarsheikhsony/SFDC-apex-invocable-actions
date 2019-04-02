@@ -257,6 +257,13 @@
 
 </ol>
 
+## Ideas Exchange
+<ol type="1">
+  
+<li><a href="https://success.salesforce.com/ideaView?id=0873A000000CXwBQAW" target="_blank" alt="Ability to Render/Display Aura Components/LWC within Einstein Bots">Ability to Render/Display Aura Components/LWC within Einstein Bots</a></li>
+
+</ol>
+
 ## Emojis as Content within Chatbots and NLPs
 <ol type="1">
   
