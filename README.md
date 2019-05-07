@@ -232,6 +232,13 @@
 
 </ol>
 
+## Salesforce Summer '19 Release
+<ol type="1">
+
+<li><a href="https://releasenotes.docs.salesforce.com/en-us/summer19/release-notes/rn_einstein_service.htm" target="_blank" alt="Einstein features in Summer '19">Einstein features in Summer '19</a></li>
+
+</ol>
+
 ## Einstein Bots in Metadata API
 <ol type="1">
   
