@@ -195,6 +195,8 @@
 
 <li><a href="https://developer.salesforce.com/blogs/2018/06/summer18-einstein-bots-for-the-people.html" target="_blank" alt="Summer’18: Einstein Bots For the People">Summer’18: Einstein Bots For the People</a></li>
 
+<li><a href="https://www.salesforce.com/blog/2019/08/chatbot-statistics.html" target="_blank" alt="Key Chatbot Statistics to Know in 2019">Key Chatbot Statistics to Know in 2019</a></li>
+
 </ol>
 
 ## Other Blogs
